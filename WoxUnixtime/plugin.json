@@ -1,0 +1,12 @@
+﻿{
+  "ID": "AB724FED22FB43EFBF3CF08AEEC56C5C",
+  "ActionKeyword": "unixtime",
+  "Name": "UnixTime converter",
+  "Description": "Convert unix timestamp to date and vice versa",
+  "Author": "Ridder",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "http://www.getwox.com/plugin",
+  "ExecuteFileName": "WoxUnixTime.dll",
+  "IcoPath": "Images\\time_logo.png"
+}
